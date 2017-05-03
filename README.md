@@ -31,6 +31,17 @@ Persona 1:- Insurance Policy Professional
 How to use this system: - Enter Year (From and Two), Enter State, Enter Policy type etc. System will present a graphical view of that specific data and user can also conclude what is going wrong and what can be down to nullify if any business loss found.
 
 # Analysis Graphs
+
+![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/Year%20wise%20insured%20population-2015.png)
+
+![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/Premium%20Expenditure%20Per%20Capita.png)
+
+![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/Insured%20Population%20Trend.png)
+
 ![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/2016%20vs%202017%20Average%20Premium.png)
+
+![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/Metal%20Plan%20Analysis.png)
+
+
 
 

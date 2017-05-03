@@ -5,6 +5,8 @@
 #APP URL 
 [WiseCare](https://wise-care-final.herokuapp.com/)
 
+[Video Pitch](https://www.youtube.com/watch?v=LNoK2_fffq0)
+
 # Team members
 
 [Rushin Naik](https://github.com/Rushin95)

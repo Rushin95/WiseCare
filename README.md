@@ -42,6 +42,6 @@ How to use this system: - Enter Year (From and Two), Enter State, Enter Policy t
 
 ![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/Metal%20Plan%20Analysis.png)
 
-
+[Video Pitch](https://www.youtube.com/watch?v=LNoK2_fffq0)
 
 

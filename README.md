@@ -7,8 +7,8 @@
 
 # Team members
 
-[Pranjal Jain](https://github.com/jpranjal)
 [Rushin Naik](https://github.com/Rushin95)
+[Pranjal Jain](https://github.com/jpranjal)
 [Sucheta Mandal](https://github.com/suchetamandal)
 [Surendra R Yadav](https://github.com/surendrary)
 
@@ -29,5 +29,8 @@ Persona 2:- Professional who works for betterment of obamacare.
 How to use this system: - Enter Year (From and Two), Enter State. System will present a graphical view of that specific data and user can also choose different formats of graph.
 Persona 1:- Insurance Policy Professional
 How to use this system: - Enter Year (From and Two), Enter State, Enter Policy type etc. System will present a graphical view of that specific data and user can also conclude what is going wrong and what can be down to nullify if any business loss found.
+
+# Analysis Graphs
+![Alt text](https://github.com/Rushin95/WiseCare-ObamaCare_Analysis/blob/master/Graphs/2016%20vs%202017%20Average%20Premium.png)
 
 
